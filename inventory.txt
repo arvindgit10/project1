@@ -1,1 +1,2 @@
-
+[test]
+AgentVM ansible_host=10.0.0.5 ansible_user=agentuser ansible_ssh_pass=Devops_123456
